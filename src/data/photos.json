@@ -1,0 +1,1728 @@
+[
+  {
+    "id": "downy-177108982",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177108982/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/177108982/large.jpeg",
+    "attribution": "(c) Alexis Williams, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/105542582",
+    "exclude": true
+  },
+  {
+    "id": "downy-140506508",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140506508/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/140506508/large.jpeg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/85400696",
+    "exclude": true
+  },
+  {
+    "id": "downy-576159420",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/576159420/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/576159420/large.jpg",
+    "attribution": "(c) kitsun3, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/318772881",
+    "exclude": true
+  },
+  {
+    "id": "downy-355593223",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355593223/medium.gif",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/355593223/large.gif",
+    "attribution": "(c) Thomas Shahan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/201439656",
+    "exclude": true
+  },
+  {
+    "id": "downy-635214136",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/635214136/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/635214136/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "observationUrl": "https://www.inaturalist.org/observations/348306970"
+  },
+  {
+    "id": "downy-169943089",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/169943089/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/169943089/large.jpeg",
+    "attribution": "(c) Mila C., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/101740561",
+    "exclude": true
+  },
+  {
+    "id": "downy-257751299",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257751299/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/257751299/large.jpeg",
+    "attribution": "(c) Jon Zabowski, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/149567340",
+    "exclude": true
+  },
+  {
+    "id": "downy-598778698",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598778698/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/598778698/large.jpg",
+    "attribution": "(c) monichar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/330233667",
+    "exclude": true
+  },
+  {
+    "id": "downy-31579590",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31579590/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31579590/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "observationUrl": "https://www.inaturalist.org/observations/20452544",
+    "region": {
+      "x": 0.26,
+      "y": 0.24,
+      "w": 0.26,
+      "h": 0.2,
+      "label": "bill"
+    }
+  },
+  {
+    "id": "downy-634989842",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/634989842/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/634989842/large.jpg",
+    "attribution": "(c) froggymum, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/348194588",
+    "exclude": true
+  },
+  {
+    "id": "downy-242985800",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/242985800/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/242985800/large.jpg",
+    "attribution": "(c) Cathy Bester, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/141790247"
+  },
+  {
+    "id": "downy-402494560",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402494560/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/402494560/large.jpeg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/226918139"
+  },
+  {
+    "id": "downy-536624629",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536624629/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/536624629/large.jpg",
+    "attribution": "(c) barndweller, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/297944288",
+    "exclude": true
+  },
+  {
+    "id": "downy-237739185",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/237739185/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/237739185/large.jpeg",
+    "attribution": "(c) Daniel Onea, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/139043170"
+  },
+  {
+    "id": "downy-473250296",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473250296/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/473250296/large.jpg",
+    "attribution": "(c) mangoat1, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/263432512"
+  },
+  {
+    "id": "downy-185431996",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/185431996/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/185431996/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "observationUrl": "https://www.inaturalist.org/observations/109966480"
+  },
+  {
+    "id": "downy-207149137",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/207149137/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207149137/large.jpeg",
+    "attribution": "(c) Chase Wilson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/122371356",
+    "exclude": true
+  },
+  {
+    "id": "downy-106205154",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/106205154/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/106205154/large.jpg",
+    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/65934343"
+  },
+  {
+    "id": "downy-310870359",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/310870359/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/310870359/large.jpeg",
+    "attribution": "(c) er-birds, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/178635865",
+    "exclude": true
+  },
+  {
+    "id": "downy-497061001",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497061001/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/497061001/large.jpg",
+    "attribution": "(c) susankirt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/276808278",
+    "exclude": true
+  },
+  {
+    "id": "downy-182236304",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/182236304/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182236304/large.jpeg",
+    "attribution": "(c) Violet T., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/108259987",
+    "exclude": true
+  },
+  {
+    "id": "downy-34050702",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34050702/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34050702/large.jpeg",
+    "attribution": "(c) roomthily, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/21969934"
+  },
+  {
+    "id": "downy-763024389",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/763024389/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/763024389/large.jpg",
+    "attribution": "(c) Mia Raddatz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/414476221"
+  },
+  {
+    "id": "downy-299227026",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/299227026/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/299227026/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "observationUrl": "https://www.inaturalist.org/observations/172374105",
+    "exclude": true
+  },
+  {
+    "id": "downy-605442925",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605442925/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/605442925/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "observationUrl": "https://www.inaturalist.org/observations/333482404"
+  },
+  {
+    "id": "downy-298313537",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/298313537/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/298313537/large.jpeg",
+    "attribution": "(c) Cricket Raspet, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/171886487",
+    "exclude": true
+  },
+  {
+    "id": "downy-292653945",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/292653945/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/292653945/large.jpeg",
+    "attribution": "(c) robertloerzel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/168838615"
+  },
+  {
+    "id": "downy-473433518",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473433518/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/473433518/large.jpeg",
+    "attribution": "(c) Chuck Cantley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/263525416",
+    "exclude": true
+  },
+  {
+    "id": "downy-181227803",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/181227803/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/181227803/large.jpg",
+    "attribution": "(c) Stewart Zeyl, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/107719396",
+    "exclude": true
+  },
+  {
+    "id": "downy-458395355",
+    "species": "downy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458395355/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/458395355/large.jpg",
+    "attribution": "(c) Matt Felperin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/255750774"
+  },
+  {
+    "id": "hairy-59053809",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59053809/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/59053809/large.jpg",
+    "attribution": "(c) Mark Dorriesfield, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/37269809",
+    "exclude": true
+  },
+  {
+    "id": "hairy-164207055",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/164207055/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/164207055/large.jpg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/98604641",
+    "exclude": true
+  },
+  {
+    "id": "hairy-169014125",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/169014125/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/169014125/large.jpg",
+    "attribution": "(c) LeAnn Plinske, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/101222185",
+    "exclude": true
+  },
+  {
+    "id": "hairy-112501404",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112501404/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/112501404/large.jpg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/69338599",
+    "exclude": true
+  },
+  {
+    "id": "hairy-169734219",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/169734219/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/169734219/large.jpg",
+    "attribution": "(c) Alain Maire, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/101627519",
+    "region": {
+      "x": 0.55,
+      "y": 0.12,
+      "w": 0.32,
+      "h": 0.28,
+      "label": "bill"
+    }
+  },
+  {
+    "id": "hairy-591805886",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591805886/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/591805886/large.jpg",
+    "attribution": "(c) mhalsted, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/326741322",
+    "exclude": true
+  },
+  {
+    "id": "hairy-591813520",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591813520/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/591813520/large.jpg",
+    "attribution": "(c) mhalsted, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/326741337"
+  },
+  {
+    "id": "hairy-470110771",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470110771/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/470110771/large.jpg",
+    "attribution": "(c) birdcite-ing, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/261651167"
+  },
+  {
+    "id": "hairy-143269296",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/143269296/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/143269296/large.jpeg",
+    "attribution": "(c) David Martin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/86920324"
+  },
+  {
+    "id": "hairy-307509481",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307509481/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/307509481/large.jpg",
+    "attribution": "(c) cheesestuffedsquirril, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/176815026",
+    "exclude": true
+  },
+  {
+    "id": "hairy-362347156",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/362347156/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/362347156/large.jpeg",
+    "attribution": "(c) sfreeman7, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/204965137"
+  },
+  {
+    "id": "hairy-32280644",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32280644/medium.gif",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32280644/large.gif",
+    "attribution": "(c) Katie Kucera, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/20916077",
+    "exclude": true
+  },
+  {
+    "id": "hairy-248588440",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/248588440/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/248588440/large.jpg",
+    "attribution": "(c) Blake Ross, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/144792425"
+  },
+  {
+    "id": "hairy-185291143",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/185291143/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/185291143/large.jpeg",
+    "attribution": "(c) David Anderson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/109889225",
+    "exclude": true
+  },
+  {
+    "id": "hairy-610903525",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610903525/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/610903525/large.jpg",
+    "attribution": "(c) Draginous, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/336203889",
+    "exclude": true
+  },
+  {
+    "id": "hairy-435284793",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/435284793/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/435284793/large.jpeg",
+    "attribution": "(c) scoparium, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/244055728"
+  },
+  {
+    "id": "hairy-462375354",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462375354/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/462375354/large.jpg",
+    "attribution": "(c) mangoat1, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/257727461"
+  },
+  {
+    "id": "hairy-530031796",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530031796/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/530031796/large.jpg",
+    "attribution": "(c) Martin Dollenkamp, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/294469511",
+    "exclude": true
+  },
+  {
+    "id": "hairy-31478565",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31478565/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31478565/large.jpg",
+    "attribution": "(c) Denis Doucet, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/20384754"
+  },
+  {
+    "id": "hairy-361766324",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/361766324/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/361766324/large.jpeg",
+    "attribution": "(c) Terry M, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/204656222"
+  },
+  {
+    "id": "hairy-377350845",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/377350845/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/377350845/large.jpeg",
+    "attribution": "(c) Gavin Slater, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/213518820",
+    "exclude": true
+  },
+  {
+    "id": "hairy-433470327",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/433470327/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/433470327/large.jpg",
+    "attribution": "(c) dogbowlbookpile, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/243115068"
+  },
+  {
+    "id": "hairy-353022042",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/353022042/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/353022042/large.jpg",
+    "attribution": "(c) MikeN, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/200125024",
+    "exclude": true
+  },
+  {
+    "id": "hairy-170499442",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/170499442/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/170499442/large.jpg",
+    "attribution": "(c) Owen Woodhouse, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/102042425",
+    "exclude": true
+  },
+  {
+    "id": "hairy-691012218",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/691012218/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/691012218/large.jpg",
+    "attribution": "(c) yongestation, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/377856617"
+  },
+  {
+    "id": "hairy-259033525",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/259033525/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/259033525/large.jpeg",
+    "attribution": "(c) Miguel A Mejias, PhD., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/150248016"
+  },
+  {
+    "id": "hairy-540049138",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540049138/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/540049138/large.jpg",
+    "attribution": "(c) Aiden Donahue, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/299755433"
+  },
+  {
+    "id": "hairy-32910117",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32910117/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32910117/large.jpg",
+    "attribution": "(c) mimleypan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/21284142",
+    "exclude": true
+  },
+  {
+    "id": "hairy-169680772",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/169680772/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/169680772/large.jpeg",
+    "attribution": "(c) mhalsted, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/101591099"
+  },
+  {
+    "id": "hairy-175352225",
+    "species": "hairy",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/175352225/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/175352225/large.jpg",
+    "attribution": "(c) earnoodles, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/104625220",
+    "exclude": true
+  },
+  {
+    "id": "house-21525364",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21525364/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/21525364/large.jpg",
+    "attribution": "(c) Torsten Eriksson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/14463133",
+    "exclude": true
+  },
+  {
+    "id": "house-57363749",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57363749/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/57363749/large.jpg",
+    "attribution": "(c) Coleen Lawlor, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/36299406"
+  },
+  {
+    "id": "house-354041159",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/354041159/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/354041159/large.jpg",
+    "attribution": "(c) shawnann74, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/200646827",
+    "exclude": true
+  },
+  {
+    "id": "house-479788277",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479788277/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/479788277/large.jpg",
+    "attribution": "(c) Yinglun Li, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/267009396"
+  },
+  {
+    "id": "house-35114707",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35114707/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/35114707/large.jpeg",
+    "attribution": "(c) Σάββας Ζαφειρίου (Savvas Zafeiriou), some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/22667407",
+    "exclude": true
+  },
+  {
+    "id": "house-30409081",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30409081/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30409081/large.jpg",
+    "attribution": "(c) Jennifer Snyder, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/19736233",
+    "exclude": true
+  },
+  {
+    "id": "house-373218484",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/373218484/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/373218484/large.jpeg",
+    "attribution": "(c) mxkinoko, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/211069973",
+    "exclude": true
+  },
+  {
+    "id": "house-149265632",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/149265632/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/149265632/large.jpeg",
+    "attribution": "(c) Jorge A. Pérez Torres, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/90323483",
+    "exclude": true
+  },
+  {
+    "id": "house-77680959",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/77680959/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/77680959/large.jpg",
+    "attribution": "(c) dennisvo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/48944342"
+  },
+  {
+    "id": "house-108758320",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108758320/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/108758320/large.jpeg",
+    "attribution": "(c) Jaime R Briseño, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/67330250"
+  },
+  {
+    "id": "house-349711219",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349711219/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/349711219/large.jpg",
+    "attribution": "(c) Conor McMahon, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/198416366"
+  },
+  {
+    "id": "house-28532402",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28532402/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28532402/large.jpg",
+    "attribution": "(c) Kadi E, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/18640048"
+  },
+  {
+    "id": "house-274629689",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274629689/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/274629689/large.jpeg",
+    "attribution": "(c) Owen J., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/158953545",
+    "exclude": true
+  },
+  {
+    "id": "house-448630116",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448630116/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/448630116/large.jpg",
+    "attribution": "(c) Drew Chaney, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/250814718",
+    "exclude": true
+  },
+  {
+    "id": "house-133962880",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133962880/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/133962880/large.jpg",
+    "attribution": "(c) bungelina, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/81664989",
+    "exclude": true
+  },
+  {
+    "id": "house-81479936",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/81479936/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/81479936/large.jpg",
+    "attribution": "(c) Raúl Trujillo Tovar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/51291888"
+  },
+  {
+    "id": "house-4484402",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4484402/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/4484402/large.jpeg",
+    "attribution": "(c) Kakalotli, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/3825151"
+  },
+  {
+    "id": "house-67200172",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/67200172/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/67200172/large.jpg",
+    "attribution": "(c) Susan Elliott, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/42326269"
+  },
+  {
+    "id": "house-463935645",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463935645/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/463935645/large.jpeg",
+    "attribution": "(c) Gianna Coppola, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/258562015"
+  },
+  {
+    "id": "house-56363382",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56363382/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/56363382/large.jpg",
+    "attribution": "(c) Donna Pomeroy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/35722456"
+  },
+  {
+    "id": "house-66050841",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66050841/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/66050841/large.jpeg",
+    "attribution": "(c) Daniel Onea, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/41636453"
+  },
+  {
+    "id": "house-176890225",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176890225/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/176890225/large.jpg",
+    "attribution": "(c) regisfortin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/105427735",
+    "exclude": true
+  },
+  {
+    "id": "house-747166184",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/747166184/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/747166184/large.jpg",
+    "attribution": "(c) KC Craven, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/406654028",
+    "exclude": true
+  },
+  {
+    "id": "house-257649725",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257649725/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/257649725/large.jpg",
+    "attribution": "(c) dalemeister, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/149513563",
+    "exclude": true
+  },
+  {
+    "id": "house-14743569",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14743569/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14743569/large.jpg",
+    "attribution": "(c) Rubén Mánuel-Briseño, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/10578606",
+    "exclude": true
+  },
+  {
+    "id": "house-421806635",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/421806635/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/421806635/large.jpg",
+    "attribution": "(c) mannac, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/237044294",
+    "exclude": true
+  },
+  {
+    "id": "house-267708368",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/267708368/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/267708368/large.jpeg",
+    "attribution": "(c) KS, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/154907275"
+  },
+  {
+    "id": "house-65965574",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65965574/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/65965574/large.jpg",
+    "attribution": "(c) delaneyward, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/41576534",
+    "exclude": true
+  },
+  {
+    "id": "house-307775044",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307775044/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/307775044/large.jpg",
+    "attribution": "(c) sammkaiser, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/176992714",
+    "exclude": true
+  },
+  {
+    "id": "house-597517224",
+    "species": "house",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597517224/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/597517224/large.jpg",
+    "attribution": "(c) dalemeister, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/329610506"
+  },
+  {
+    "id": "purple-488054029",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488054029/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/488054029/large.jpg",
+    "attribution": "(c) Dani Alba, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/271330241",
+    "exclude": true
+  },
+  {
+    "id": "purple-182925017",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/182925017/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/182925017/large.jpeg",
+    "attribution": "(c) Patricia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/108625129",
+    "exclude": true
+  },
+  {
+    "id": "purple-113108937",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/113108937/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/113108937/large.jpeg",
+    "attribution": "(c) abcdefgewing, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/69676783",
+    "exclude": true
+  },
+  {
+    "id": "purple-73218113",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/73218113/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/73218113/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "observationUrl": "https://www.inaturalist.org/observations/46165608"
+  },
+  {
+    "id": "purple-113310113",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/113310113/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/113310113/large.jpg",
+    "attribution": "(c) branwyn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/69780903",
+    "exclude": true
+  },
+  {
+    "id": "purple-20328053",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/20328053/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/20328053/large.jpg",
+    "attribution": "(c) Donna Pomeroy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/13784688"
+  },
+  {
+    "id": "purple-582659031",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582659031/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/582659031/large.jpg",
+    "attribution": "(c) Christine Beck, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/322119636",
+    "exclude": true
+  },
+  {
+    "id": "purple-453708440",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/453708440/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/453708440/large.jpeg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/253396634"
+  },
+  {
+    "id": "purple-494782390",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/494782390/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/494782390/large.jpeg",
+    "attribution": "(c) mhalsted, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/275351884"
+  },
+  {
+    "id": "purple-448027253",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448027253/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/448027253/large.jpeg",
+    "attribution": "(c) shmugrizzle, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/250501796"
+  },
+  {
+    "id": "purple-356895803",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356895803/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/356895803/large.jpeg",
+    "attribution": "(c) stevedecker, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/202112613"
+  },
+  {
+    "id": "purple-668725391",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/668725391/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/668725391/large.jpg",
+    "attribution": "(c) mhalsted, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/366238675",
+    "exclude": true
+  },
+  {
+    "id": "purple-668809978",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/668809978/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/668809978/large.jpg",
+    "attribution": "(c) mhalsted, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/366287045"
+  },
+  {
+    "id": "purple-110458738",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110458738/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/110458738/large.jpg",
+    "attribution": "(c) jefferykarafa, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/68248604",
+    "exclude": true
+  },
+  {
+    "id": "purple-455503983",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455503983/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/455503983/large.jpg",
+    "attribution": "(c) Doug D., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/254318363"
+  },
+  {
+    "id": "purple-604967477",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604967477/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/604967477/large.jpg",
+    "attribution": "(c) sglevanik, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/333246573",
+    "exclude": true
+  },
+  {
+    "id": "purple-122330586",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/122330586/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/122330586/large.jpg",
+    "attribution": "(c) whale_nerd, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/74819309"
+  },
+  {
+    "id": "purple-456548435",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456548435/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/456548435/large.jpeg",
+    "attribution": "(c) Andy Bridges, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/254835321"
+  },
+  {
+    "id": "purple-66646510",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66646510/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/66646510/large.jpeg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/41993072"
+  },
+  {
+    "id": "purple-121008500",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/121008500/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/121008500/large.jpg",
+    "attribution": "(c) Susan Elliott, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/74066442"
+  },
+  {
+    "id": "purple-367169357",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/367169357/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/367169357/large.jpg",
+    "attribution": "(c) alyson_wanderland, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/207566372"
+  },
+  {
+    "id": "purple-184656912",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184656912/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/184656912/large.jpeg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/109549686"
+  },
+  {
+    "id": "purple-625200828",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625200828/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/625200828/large.jpg",
+    "attribution": "(c) Braxton L., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/343239971",
+    "exclude": true
+  },
+  {
+    "id": "purple-249715786",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249715786/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/249715786/large.jpeg",
+    "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/145388186"
+  },
+  {
+    "id": "purple-256808776",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/256808776/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/256808776/large.jpg",
+    "attribution": "(c) John Matthew Erickson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/149067461",
+    "exclude": true
+  },
+  {
+    "id": "purple-348722015",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348722015/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/348722015/large.jpg",
+    "attribution": "(c) Dave Eib, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/197923718"
+  },
+  {
+    "id": "purple-349237375",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349237375/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/349237375/large.jpg",
+    "attribution": "(c) Piper Sea, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/198179973",
+    "exclude": true
+  },
+  {
+    "id": "purple-341866616",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341866616/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/341866616/large.jpeg",
+    "attribution": "(c) Cricket Raspet, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/194481219",
+    "exclude": true
+  },
+  {
+    "id": "purple-631224631",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631224631/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/631224631/large.jpg",
+    "attribution": "(c) forestlenny, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/346294740",
+    "exclude": true
+  },
+  {
+    "id": "purple-598630040",
+    "species": "purple",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598630040/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/598630040/large.jpg",
+    "attribution": "(c) VeeLorelei, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/330160508"
+  },
+  {
+    "id": "coopers-5586681",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5586681/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5586681/large.jpeg",
+    "attribution": "(c) John Karges, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/4617578",
+    "exclude": true
+  },
+  {
+    "id": "coopers-43282408",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/43282408/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/43282408/large.jpg",
+    "attribution": "(c) Becky Matsubara, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/27793926",
+    "exclude": true
+  },
+  {
+    "id": "coopers-253819779",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/253819779/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/253819779/large.jpeg",
+    "attribution": "(c) mallorydotson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/147499683",
+    "exclude": true
+  },
+  {
+    "id": "coopers-102883419",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102883419/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/102883419/large.jpeg",
+    "attribution": "(c) karalyn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/64037962"
+  },
+  {
+    "id": "coopers-123517429",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123517429/medium.png",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/123517429/large.png",
+    "attribution": "(c) mcraubet, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/75494784",
+    "exclude": true
+  },
+  {
+    "id": "coopers-29244480",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29244480/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29244480/large.jpg",
+    "attribution": "(c) Alexander Viduetsky, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/19062691"
+  },
+  {
+    "id": "coopers-94034792",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/94034792/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/94034792/large.jpg",
+    "attribution": "(c) terence zahner, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/58881743",
+    "exclude": true
+  },
+  {
+    "id": "coopers-32948726",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32948726/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/32948726/large.jpeg",
+    "attribution": "(c) Annika Lindqvist, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/21306664",
+    "exclude": true
+  },
+  {
+    "id": "coopers-266914604",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/266914604/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/266914604/large.jpg",
+    "attribution": "(c) Mark Faherty, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/154473912"
+  },
+  {
+    "id": "coopers-12774999",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12774999/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12774999/large.jpg",
+    "attribution": "(c) willem9, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/9399683"
+  },
+  {
+    "id": "coopers-462693534",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462693534/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/462693534/large.jpg",
+    "attribution": "(c) laurenwestendorf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/257918283",
+    "exclude": true
+  },
+  {
+    "id": "coopers-597700067",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597700067/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/597700067/large.jpg",
+    "attribution": "(c) Damon Tighe, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/329703461",
+    "exclude": true
+  },
+  {
+    "id": "coopers-254764312",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/254764312/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/254764312/large.jpeg",
+    "attribution": "(c) sararuth, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/147992819"
+  },
+  {
+    "id": "coopers-191414186",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/191414186/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/191414186/large.jpg",
+    "attribution": "(c) Andrea Carpio, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/113283825"
+  },
+  {
+    "id": "coopers-631617642",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631617642/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/631617642/large.jpg",
+    "attribution": "(c) Mel Diotte, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/346495746",
+    "exclude": true
+  },
+  {
+    "id": "coopers-350410866",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/350410866/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/350410866/large.jpg",
+    "attribution": "(c) Mike Stewart, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/198772206"
+  },
+  {
+    "id": "coopers-183457401",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/183457401/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/183457401/large.jpg",
+    "attribution": "(c) Mike Stewart, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/108908397"
+  },
+  {
+    "id": "coopers-406170506",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/406170506/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/406170506/large.jpeg",
+    "attribution": "(c) rose_bloom, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/228858063",
+    "exclude": true
+  },
+  {
+    "id": "coopers-141942000",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141942000/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/141942000/large.jpg",
+    "attribution": "(c) Robin Gwen Agarwal, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/86188153"
+  },
+  {
+    "id": "coopers-187541819",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187541819/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/187541819/large.jpg",
+    "attribution": "(c) thejasperpatch, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/111118090",
+    "exclude": true
+  },
+  {
+    "id": "coopers-11772776",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11772776/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11772776/large.jpeg",
+    "attribution": "(c) Steven Kurniawidjaja, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/8767777"
+  },
+  {
+    "id": "coopers-103256719",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/103256719/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/103256719/large.jpg",
+    "attribution": "(c) clover_lover, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/64246345",
+    "exclude": true
+  },
+  {
+    "id": "coopers-52268108",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52268108/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/52268108/large.jpeg",
+    "attribution": "(c) Shirley Zundell, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/33285493",
+    "exclude": true
+  },
+  {
+    "id": "coopers-108951892",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108951892/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/108951892/large.jpeg",
+    "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/67435573"
+  },
+  {
+    "id": "coopers-34663134",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34663134/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/34663134/large.jpg",
+    "attribution": "(c) CraigW, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/22380717"
+  },
+  {
+    "id": "coopers-212621110",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/212621110/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/212621110/large.jpeg",
+    "attribution": "(c) Daniel Onea, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/125381165",
+    "exclude": true
+  },
+  {
+    "id": "coopers-446172590",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/446172590/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/446172590/large.jpg",
+    "attribution": "(c) Jim Danzi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/249579530"
+  },
+  {
+    "id": "coopers-63189695",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/63189695/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/63189695/large.jpg",
+    "attribution": "(c) Mark Majette, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/39805093",
+    "exclude": true
+  },
+  {
+    "id": "coopers-574349978",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/574349978/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/574349978/large.jpg",
+    "attribution": "(c) Christine Beck, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/317829128",
+    "exclude": true
+  },
+  {
+    "id": "coopers-31645325",
+    "species": "coopers",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31645325/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31645325/large.jpg",
+    "attribution": "(c) John Good, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/20502847"
+  },
+  {
+    "id": "sharpie-57554513",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57554513/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/57554513/large.jpg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/36411517",
+    "exclude": true
+  },
+  {
+    "id": "sharpie-59411241",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59411241/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/59411241/large.jpeg",
+    "attribution": "(c) RJ Baltierra, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/37472832",
+    "exclude": true
+  },
+  {
+    "id": "sharpie-469345845",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469345845/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/469345845/large.jpg",
+    "attribution": "(c) Bob Reiter, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/261266091"
+  },
+  {
+    "id": "sharpie-114553098",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114553098/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/114553098/large.jpg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/70406342"
+  },
+  {
+    "id": "sharpie-176133901",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176133901/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/176133901/large.jpg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/105033358"
+  },
+  {
+    "id": "sharpie-31629551",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31629551/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/31629551/large.jpg",
+    "attribution": "(c) Michael Blust, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/20494195"
+  },
+  {
+    "id": "sharpie-122382254",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/122382254/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/122382254/large.jpg",
+    "attribution": "(c) George Armistead/Hillstar Nature, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/74848099"
+  },
+  {
+    "id": "sharpie-259564939",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/259564939/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/259564939/large.jpg",
+    "attribution": "(c) cdewerowe, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/150521427"
+  },
+  {
+    "id": "sharpie-254386996",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/254386996/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/254386996/large.jpg",
+    "attribution": "(c) stjayaaa, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/147798223"
+  },
+  {
+    "id": "sharpie-331285067",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331285067/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/331285067/large.jpg",
+    "attribution": "(c) jim22lawrence, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/189160500",
+    "exclude": true
+  },
+  {
+    "id": "sharpie-432837035",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/432837035/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/432837035/large.jpg",
+    "attribution": "(c) Jared Manninen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/242778303",
+    "exclude": true
+  },
+  {
+    "id": "sharpie-104823211",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/104823211/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/104823211/large.jpeg",
+    "attribution": "(c) Sebastián de Jesús Herrera Buenfil, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/65153135"
+  },
+  {
+    "id": "sharpie-232698503",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232698503/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/232698503/large.jpg",
+    "attribution": "(c) Peter Olsoy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/136355144",
+    "exclude": true
+  },
+  {
+    "id": "sharpie-11457264",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11457264/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/11457264/large.jpg",
+    "attribution": "(c) Denver Kramer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/8575339",
+    "exclude": true
+  },
+  {
+    "id": "sharpie-29960679",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29960679/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29960679/large.jpg",
+    "attribution": "(c) Casey Weissburg, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/19473009",
+    "exclude": true
+  },
+  {
+    "id": "sharpie-96380550",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96380550/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/96380550/large.jpeg",
+    "attribution": "(c) Nathaniel Sharp, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/60283284",
+    "exclude": true
+  },
+  {
+    "id": "sharpie-751206921",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/751206921/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/751206921/large.jpg",
+    "attribution": "(c) Brooke J., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "observationUrl": "https://www.inaturalist.org/observations/407984390",
+    "exclude": true
+  },
+  {
+    "id": "sharpie-192864362",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/192864362/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/192864362/large.jpg",
+    "attribution": "(c) Leslie S, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/114198022",
+    "exclude": true
+  },
+  {
+    "id": "sharpie-175185060",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/175185060/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/175185060/large.jpg",
+    "attribution": "(c) Steven McGrath, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/104538028"
+  },
+  {
+    "id": "sharpie-30191334",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30191334/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/30191334/large.jpeg",
+    "attribution": "(c) S. Queen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/19609513"
+  },
+  {
+    "id": "sharpie-98388175",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98388175/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/98388175/large.jpg",
+    "attribution": "(c) Will Richardson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/61485472"
+  },
+  {
+    "id": "sharpie-105610280",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105610280/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/105610280/large.jpg",
+    "attribution": "(c) Steve Waller, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/65598175"
+  },
+  {
+    "id": "sharpie-331580842",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331580842/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/331580842/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "observationUrl": "https://www.inaturalist.org/observations/189304688",
+    "exclude": true
+  },
+  {
+    "id": "sharpie-192597573",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/192597573/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/192597573/large.jpg",
+    "attribution": "(c) Scott O'Donnell, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/114030944"
+  },
+  {
+    "id": "sharpie-40152872",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40152872/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/40152872/large.jpg",
+    "attribution": "(c) Maclure Peeps, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/25890561",
+    "exclude": true
+  },
+  {
+    "id": "sharpie-224551969",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/224551969/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/224551969/large.jpg",
+    "attribution": "(c) uwland_lee, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/131909742",
+    "exclude": true
+  },
+  {
+    "id": "sharpie-58669687",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58669687/medium.jpg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/58669687/large.jpg",
+    "attribution": "(c) Kyle Tansley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/37049905"
+  },
+  {
+    "id": "sharpie-109377017",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/109377017/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/109377017/large.jpeg",
+    "attribution": "(c) tallaperl, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/67663026",
+    "exclude": true
+  },
+  {
+    "id": "sharpie-5736720",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5736720/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5736720/large.jpeg",
+    "attribution": "(c) Daniel Dorantes, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/4738669"
+  },
+  {
+    "id": "sharpie-252288276",
+    "species": "sharpie",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/252288276/medium.jpeg",
+    "largeUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/252288276/large.jpeg",
+    "attribution": "(c) afidnotorchids, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "observationUrl": "https://www.inaturalist.org/observations/146706384",
+    "exclude": true
+  }
+]
